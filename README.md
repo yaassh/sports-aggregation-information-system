@@ -18,6 +18,8 @@ As part of this project:
 
 In this report, our team has developed a sports aggregator information system that offers a unique experience for all types of users. Unlike other sports aggregation systems that are limited in terms of functionalities that they offer to the users; this system was developed to provide a comprehensive experience for all sports enthusiasts. The system is designed from the backend at the database to the frontend of the user interface with the sports enthusiasts’ experience in mind. The system will offer a wide variety of functions that are designed using the expert system and user interactive system. Users of the system will have a tailored experience in which they can follow their favourite sports, publish expert authenticated articles, posts opinions about their sports, follow their sports news feeds, and access to purchasing game tickets of their favourite sports games and events. The report will provide a detailed description on the database design and development as well as the development of the actual user interface.
 
-The web application can accessed here: https://sportsaggregator.azurewebsites.net
+## Web application can accessed here: https://sportsaggregator.azurewebsites.net
 
-The video explanation for this project can be viewed here: https://youtu.be/y7nhAtmPtKw
+## The video explanation for this project can be viewed here: https://youtu.be/y7nhAtmPtKw
+
+
