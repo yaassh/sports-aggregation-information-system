@@ -22,4 +22,5 @@ In this report, our team has developed a sports aggregator information system th
 
 ## The video explanation for this project can be viewed here: https://youtu.be/y7nhAtmPtKw
 
+## The project report can also be viewed here: https://drive.google.com/file/d/0B-rOPxQ6xyebQUF2VnlVenhyd1ZyUEFKTmk1MlZxbEJWdkU0/view?usp=sharing
 
